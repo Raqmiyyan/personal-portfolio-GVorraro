@@ -1,0 +1,31 @@
+:root {
+    --deep-space-sparkle: #4c5b5cff;
+    --bittersweet: #ff715bff;
+    --cornflower-blue: #91a6ffff;
+    --bitter-lime: #bced09ff;
+    --white: #ffffffff;
+
+}
+
+p {
+    color: var(--cornflower-blue );
+    font-family: 'Halant', serif;
+
+}
+
+h1  {
+    color: var(--bitter-lime);
+    font-family: 'Nunito Sans', sans-serif;
+    width: 200px;
+    margin: 0px auto;
+}
+
+#SAM{
+    border: 2px solid black;
+    border-radius: 10px;
+    padding-left: 10px;
+    background-color: lightblue;
+    margin-top: 30px;
+    margin-bottom: 50px;
+
+}
